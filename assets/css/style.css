@@ -21,7 +21,9 @@ body {
   font-size: 48px;
 }
 
-.header h1 .seo {
+/* below styles the horiseon logo to have seo a differenct color */
+
+.seo {
   color: #d9dcd6;
 }
 
@@ -77,6 +79,8 @@ p {
   display: inline-block;
   margin-left: 20px;
 }
+
+/* the styling for the side column is listed below */
 
 .benefits {
   margin-right: 20px;
@@ -137,6 +141,8 @@ p {
   max-width: 150px;
 }
 
+/* styling for the three main section below the main photo is listed below */
+
 .search-engine-optimization {
   margin-bottom: 20px;
   padding: 50px;
@@ -190,6 +196,8 @@ p {
   margin-bottom: 20px;
   font-size: 36px;
 }
+
+/* the styling below is for the footer */
 
 .footer {
   padding: 30px;
