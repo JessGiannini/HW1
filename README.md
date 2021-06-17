@@ -13,7 +13,7 @@ In order to view my changes please use Visual Code Studio to see my code and Goo
 
 ## Deployed Link
 
-- [See Live Site](#)
+- https://jessgiannini.github.io/HW1/
 
 ## Author
 
