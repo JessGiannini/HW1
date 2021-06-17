@@ -21,9 +21,7 @@ Website Refracted by Jessica Giannini
 
 - Portfolio Site (Coming Soon)
 - Github(https://github.com/)
-- LinkedIn (https://www.linkedin.com/)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+- LinkedIn (https://www.linkedin.com/in/jessica-aletta-giannini-155b1310/)
 
 ## License
 
