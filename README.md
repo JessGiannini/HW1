@@ -11,6 +11,12 @@ In order to view my changes please use Visual Code Studio to see my code and Goo
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
+## Corrected Errors
+
+One of the only major errors found in the code was a navigation bar menu link didn't work. It was a simple mistake shown below.
+
+<img src=".assets/images/CorrectedErrors.png" alt="Corrected Errors">
+
 ## Deployed Link
 
 - https://jessgiannini.github.io/HW1/
